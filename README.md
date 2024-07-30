@@ -7,16 +7,16 @@ UMAPs
 
 ### Requirements:
 - `helical` and `numpy` version are to be installed indpendently and before other dependencies as shown in the sample notebook
-scikit-learn
-numpy
-scanpy
-torch
-anndata
-pandas
-seaborn
-matplotlib
-scipy
-umap-learn
-tqdm
+- scikit-learn
+- numpy
+- scanpy
+- torch
+- anndata
+- pandas
+- seaborn
+- matplotlib
+- scipy
+- umap-learn
+- tqdm
 
 
